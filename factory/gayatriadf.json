@@ -1,0 +1,9 @@
+{
+	"name": "gayatriadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "af8ec6af-5da5-4306-8a64-8ad8428d13da",
+		"tenantId": "6d9cc7c3-b312-46ca-aa1a-43645c990adc"
+	}
+}

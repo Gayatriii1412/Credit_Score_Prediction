@@ -1,0 +1,16 @@
+{
+	"name": "MongoDb_bank_ds",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "MongoDb_Bank_LS",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "MongoDbV2Collection",
+		"schema": [],
+		"typeProperties": {
+			"collection": "gbProject"
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
